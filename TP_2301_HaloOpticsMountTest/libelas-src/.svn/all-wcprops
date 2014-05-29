@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src
+END
+descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/descriptor.cpp
+END
+descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/descriptor.h
+END
+elas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/elas.cpp
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/matrix.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/filter.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/timer.h
+END
+triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/triangle.cpp
+END
+elas_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/elas_exception.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/image.h
+END
+elas.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/elas.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/matrix.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/filter.h
+END
+triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27605/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2301_HaloOpticsMountTest/libelas-src/triangle.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2303_HaloDockingPortTest
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27772/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2303_HaloDockingPortTest/main.cpp
+END
+testproject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2303_HaloDockingPortTest/testproject.cpp
+END
+testproject.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2303_HaloDockingPortTest/testproject.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spheres/!svn/ver/27772/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/TestProjects/TP_2303_HaloDockingPortTest/CMakeLists.txt
+END
