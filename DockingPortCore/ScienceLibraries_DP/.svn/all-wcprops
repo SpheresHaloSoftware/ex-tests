@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP
+END
+stereoSAD.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/stereoSAD.h
+END
+photogrammetry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/photogrammetry.cpp
+END
+stereoFeatureMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/stereoFeatureMatcher.cpp
+END
+photogrammetry.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/photogrammetry.h
+END
+stereoFeatureMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/stereoFeatureMatcher.h
+END
+stereoSAD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/stereoSAD.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries_DP/CMakeLists.txt
+END

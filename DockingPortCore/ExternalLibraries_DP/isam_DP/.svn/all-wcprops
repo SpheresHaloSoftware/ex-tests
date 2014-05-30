@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/LICENSE
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/ChangeLog
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/README
+END

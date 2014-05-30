@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spheres/!svn/ver/27658/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2
+END
+FrameMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FrameMatcher.cpp
+END
+Frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Frame.h
+END
+FeatureMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FeatureMatcher.cpp
+END
+AbsoluteOrientation.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/AbsoluteOrientation.h
+END
+gogglesTiming.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/gogglesTiming.cpp
+END
+FrameMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FrameMatcher.h
+END
+FeatureMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27658/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FeatureMatcher.h
+END
+gogglesTiming.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/gogglesTiming.h
+END
+GlobalFeatureMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/GlobalFeatureMap.cpp
+END
+Triangulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Triangulator.cpp
+END
+StopWatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/StopWatch.cpp
+END
+FrameCatalogue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FrameCatalogue.cpp
+END
+GlobalFeatureMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/GlobalFeatureMap.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Logger.cpp
+END
+GlobalFeatureMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/GlobalFeatureMatcher.cpp
+END
+DenseStereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/DenseStereo.cpp
+END
+Triangulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Triangulator.h
+END
+StopWatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/StopWatch.h
+END
+FrameCatalogue.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/FrameCatalogue.h
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Logger.h
+END
+DenseStereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/DenseStereo.h
+END
+GlobalFeatureMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/GlobalFeatureMatcher.h
+END
+SimpleTriangulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/SimpleTriangulator.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Camera.cpp
+END
+Frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Frame.cpp
+END
+AbsoluteOrientation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/AbsoluteOrientation.cpp
+END
+SimpleTriangulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/SimpleTriangulator.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/CMakeLists.txt
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/Camera.h
+END

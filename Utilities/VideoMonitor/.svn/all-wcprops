@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor
+END
+networkServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/networkServer.cpp
+END
+videoDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/videoDisplay.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/main.cpp
+END
+networkServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/networkServer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/CMakeLists.txt
+END
+videoDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spheres/!svn/ver/27763/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitor/videoDisplay.cpp
+END

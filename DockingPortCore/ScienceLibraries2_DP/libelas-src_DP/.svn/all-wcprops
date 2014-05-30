@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP
+END
+descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/descriptor.cpp
+END
+descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/descriptor.h
+END
+elas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/elas.cpp
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/matrix.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/filter.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/timer.h
+END
+triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/triangle.cpp
+END
+elas_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/elas_exception.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/image.h
+END
+elas.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/elas.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/matrix.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/filter.h
+END
+triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ScienceLibraries2_DP/libelas-src_DP/triangle.h
+END

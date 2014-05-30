@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts
+END
+camera_calib_brighter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/camera_calib_brighter.sh
+END
+restart_ueye.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/restart_ueye.sh
+END
+results_info.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/results_info.sh
+END
+setup_results_directories.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/setup_results_directories.sh
+END
+chk_usb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/chk_usb.sh
+END
+chk_network.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/chk_network.sh
+END
+empty_results_trash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/empty_results_trash.sh
+END
+switch2dhcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/switch2dhcp.sh
+END
+camera_calib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/camera_calib.sh
+END
+switch2eth.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/switch2eth.sh
+END
+move_results_trash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/move_results_trash.sh
+END
+reset_networking.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/reset_networking.sh
+END
+record_software_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/record_software_status.sh
+END
+switch2wifi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/switch2wifi.sh
+END
+restore_results_trash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/restore_results_trash.sh
+END
+move_results_trash_sp38.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spheres/!svn/ver/27766/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Scripts/move_results_trash_sp38.sh
+END

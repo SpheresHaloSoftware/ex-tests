@@ -1,0 +1,86 @@
+10
+
+dir
+28116
+http://ssl.mit.edu/svn/spheres/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities
+http://ssl.mit.edu/svn/spheres
+
+
+
+2014-04-10T13:48:44.965520Z
+27803
+jewisonc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+564c1b0f-8bbb-2f48-9380-fc162d65cf79
+
+SerialTest
+dir
+
+SerialTest2
+dir
+
+AlignMesh
+dir
+
+SerialSendTest
+dir
+
+VideoMonitorSingleCamera
+dir
+
+WriteTest
+dir
+
+points2Mesh
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2014-05-28T16:30:51.000000Z
+e5bcba004be21caea3607c022472f604
+2014-04-04T22:07:06.791522Z
+27791
+jewisonc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+511
+
+VideoMonitor
+dir
+

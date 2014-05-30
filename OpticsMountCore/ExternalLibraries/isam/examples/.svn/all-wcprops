@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples
+END
+stereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/stereo.cpp
+END
+anchorNodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/anchorNodes.cpp
+END
+addRemove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/addRemove.cpp
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/example.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/CMakeLists.txt
+END
+covariances.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/examples/covariances.cpp
+END

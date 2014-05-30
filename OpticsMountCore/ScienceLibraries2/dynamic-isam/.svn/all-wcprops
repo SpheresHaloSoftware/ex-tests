@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spheres/!svn/ver/27658/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam
+END
+nonlinearSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/nonlinearSystem.h
+END
+dynamicPose3d_NL.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/dynamicPose3d_NL.h
+END
+DenseVis2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/DenseVis2.cpp
+END
+rigidBodyDynamics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/rigidBodyDynamics.cpp
+END
+dynamicPose3d_NL.h.backup
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/dynamicPose3d_NL.h.backup
+END
+DenseVis2.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27658/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/DenseVis2.h
+END
+rigidBodyDynamics.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/rigidBodyDynamics.h
+END
+inertialParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/inertialParams.h
+END
+inertiaRatios.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/inertiaRatios.h
+END
+camera3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/camera3d.h
+END
+slam_dynamic3d_NL.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/slam_dynamic3d_NL.h
+END
+NodeExmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/NodeExmap.h
+END
+kinematicPose3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/kinematicPose3d.h
+END
+FactorVariableNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/FactorVariableNoise.h
+END
+nonlinearSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/dynamic-isam/nonlinearSystem.cpp
+END

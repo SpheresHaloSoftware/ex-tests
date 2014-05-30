@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src
+END
+descriptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/descriptor.cpp
+END
+descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/descriptor.h
+END
+elas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/elas.cpp
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/matrix.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/filter.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/timer.h
+END
+triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/triangle.cpp
+END
+elas_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/elas_exception.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/image.h
+END
+elas.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/elas.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/matrix.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/filter.h
+END
+triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spheres/!svn/ver/27647/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ScienceLibraries2/libelas-src/triangle.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore
+END
+dockingport_Rectifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spheres/!svn/ver/27770/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_Rectifier.cpp
+END
+dockingport_Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_Camera.h
+END
+dockingport_DataStorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_DataStorage.cpp
+END
+dockingportGSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingportGSP.h
+END
+dockingport_Rectifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_Rectifier.h
+END
+dockingport_DataStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_DataStorage.h
+END
+dockingport_Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingport_Camera.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spheres/!svn/ver/27785/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/CMakeLists.txt
+END
+dockingportGSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/dockingportGSP.cpp
+END

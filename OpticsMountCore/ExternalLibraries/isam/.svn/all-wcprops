@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/LICENSE
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/ChangeLog
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/README
+END

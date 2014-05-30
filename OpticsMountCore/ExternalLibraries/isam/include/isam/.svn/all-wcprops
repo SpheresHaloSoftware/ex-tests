@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam
+END
+isam.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/isam.h
+END
+Element.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Element.h
+END
+Pose3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Pose3d.h
+END
+Covariances.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Covariances.h
+END
+Graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Graph.h
+END
+SparseSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/SparseSystem.h
+END
+numericalDiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/numericalDiff.h
+END
+covariance.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/covariance.h
+END
+Anchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Anchor.h
+END
+slam_monocular.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/slam_monocular.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/util.h
+END
+Noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Noise.h
+END
+robust.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/robust.h
+END
+Point2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Point2d.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/SparseVector.h
+END
+Cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Cholesky.h
+END
+slam2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/slam2d.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/SparseMatrix.h
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Node.h
+END
+OrderedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/OrderedSparseMatrix.h
+END
+Rot3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Rot3d.h
+END
+Slam.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Slam.h
+END
+Properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Properties.h
+END
+Pose2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Pose2d.h
+END
+Jacobian.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Jacobian.h
+END
+OptimizationInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/OptimizationInterface.h
+END
+slam_stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/slam_stereo.h
+END
+Factor.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Factor.h
+END
+Point3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Point3d.h
+END
+Optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Optimizer.h
+END
+slam3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/slam3d.h
+END
+Point3dh.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/include/isam/Point3dh.h
+END

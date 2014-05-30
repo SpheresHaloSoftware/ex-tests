@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP
+END
+spheres.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27658/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/spheres.h
+END
+videoStreaming.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/videoStreaming.cpp
+END
+haloGSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/haloGSP.h
+END
+videoStreaming.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/videoStreaming.h
+END
+networking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/networking.cpp
+END
+spheres.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spheres/!svn/ver/27344/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/spheres.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spheres/!svn/ver/27643/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/CMakeLists.txt
+END
+networking.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/networking.h
+END
+haloGSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spheres/!svn/ver/27804/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/HaloCore/GSP/haloGSP.cpp
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib
+END
+SparseVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/SparseVector.cpp
+END
+Cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/Cholesky.cpp
+END
+Optimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/Optimizer.cpp
+END
+SparseMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/SparseMatrix.cpp
+END
+SparseSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/SparseSystem.cpp
+END
+OrderedSparseMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/OrderedSparseMatrix.cpp
+END
+numericalDiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/numericalDiff.cpp
+END
+Anchor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/Anchor.cpp
+END
+covariance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/covariance.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/CMakeLists.txt
+END
+Slam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/Slam.cpp
+END
+Covariances.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/Covariances.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spheres/!svn/ver/27778/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/DockingPortCore/ExternalLibraries_DP/isam_DP/isamlib/util.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera
+END
+networkServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/networkServer.cpp
+END
+videoDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/videoDisplay.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/main.cpp
+END
+networkServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/networkServer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/CMakeLists.txt
+END
+videoDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27803/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/Utilities/VideoMonitorSingleCamera/videoDisplay.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam
+END
+Collections.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Collections.cpp
+END
+Lcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Lcm.h
+END
+Viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Viewer.cpp
+END
+Collections.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Collections.h
+END
+Loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Loader.cpp
+END
+Viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Viewer.h
+END
+isam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/isam.cpp
+END
+Lcm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Lcm.cpp
+END
+Loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/Loader.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spheres/!svn/ver/27644/trunk/Missions/Halo/FlightSoftware/HaloLinux_Software/OpticsMountCore/ExternalLibraries/isam/isam/CMakeLists.txt
+END
